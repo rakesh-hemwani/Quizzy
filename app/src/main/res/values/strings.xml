@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QUIZZ</string>
+
+    <string name="my_laptop">Hp Amd 64</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorret_text">Incorrect!</string>
+    <string name="first_score">0/10</string>
+    <string name="correct_toast_msg">Great!</string>
+    <string name="incorrect_toast_msg">Not Good</string>
+
+    <string name="q1">How does Harry manage to breathe underwater in Triwizard Tournament?</string>
+    <string name="q2"> What is the name of Fred and George’s joke shop?</string>
+    <string name="q3">Which of these is NOT one of the Unforgivable Curses?</string>
+    <string name="q4">Who played Lord Voldemort in the movies?</string>
+    <string name="q5">Who guards the entrance to the Gryffindor common room? </string>
+    <string name="q6">Who is NOT a member of the Order of the Phoenix?</string>
+    <string name="q7">A wizard who cannot do magic is known as a:</string>
+    <string name="q8">What does the spell “Obliviate” do?</string>
+    <string name="q9">Where does Hermione brew her first batch of Polyjuice Potion?</string>
+    <string name="q10">What does one say to close the Marauder’s Map and make it blank again?</string>
+
+
+</resources>
